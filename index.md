@@ -82,7 +82,7 @@ end
 
 ### Small image
 
-(https://github.com/sfirest3/Spencerfirestone.github.io/blob/main/Screenshot%202025-04-01%20191106.png)
+![ocotoat](https://github.com/sfirest3/Spencerfirestone.github.io/blob/main/Screenshot%202025-04-01%20191106.png)
 
 ### Large image
 
