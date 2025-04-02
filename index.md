@@ -6,7 +6,7 @@ layout: default
 
 Organizations of the contemporary fast-paced world of cybersecurity need powerful tools to monitor and respond to security notifications efficiently. This is part of my cybersecurity learning process. I installed a cloud SIEM (Security Information and Event Management) tool with Microsoft Sentinel. This project enhanced my learning on log analysis, threat intelligence, and automated response pipelines within cloud environments.
 
-#Technical Details
+# Technical Details
 
 The project was implemented on Microsoft Azure, using Microsoft Sentinel as the SIEM tool. The key technical features were:
 
@@ -20,7 +20,7 @@ Automated Response: Created playbooks using Azure Logic Apps to automate the res
 
 Dashboard Visualization: Built interactive dashboards for real-time threat detection and security insights.
 
-#Challenges Faced
+# Challenges Faced
 
 Log Data Overload: Sorting through critical security events from large data sets meant that KQL queries had to be optimized.
 
@@ -28,7 +28,7 @@ Rule Fine-Tuning: Tuning analytics rules to eliminate false positives without su
 
 Automating Response Operations: Not hindering normal functioning but promptly resolving actual security issues.
 
-#Outcomes
+# Outcomes
 
 On completion of the project:
 
@@ -38,7 +38,7 @@ Generated bespoke analytics rules to increase the efficacy of threat detection.
 Automated incident response mechanisms, reducing reaction time for suspected breaches.
 Gained hands-on knowledge on Azure security utilities, log inspection, and SIEM functionalities.
 
-#Lessons Learned
+# Lessons Learned
 
 The project reaffirmed the importance of:
 
@@ -48,7 +48,7 @@ Responsibly automating reaction, minimizing disruptions while maximizing securit
 
 Ongoing monitoring and adjustment, since cyber threats are ever-changing.
 
-#Conclusion
+# Conclusion
 
 Having utilized Microsoft Sentinel as a SIEM solution was an excellent means of getting first-hand experience with security monitoring and automation. Working on this project not only solidified my technical skills but also broadened my understanding of real-world cybersecurity practices. As the type of cyber threats becomes increasingly complex, the importance of effective, scalable, and automated security monitoring is crucial to any company.
 
