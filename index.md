@@ -86,10 +86,10 @@ end
 
 ### Large image
 
-![Branching](https://github.com/sfirest3/Spencerfirestone.github.io/blob/main/Screenshot%202025-04-01%20191149.png)
+![Branching](Screenshot%202025-04-01%20191149.png)
 
-![Octocat](https://github.com/sfirest3/Spencerfirestone.github.io/blob/main/Screenshot%202025-04-01%20192149.png)
+![Octocat](Screenshot%202025-04-01%20192149.png)
 
-![Octocat](https://github.com/sfirest3/Spencerfirestone.github.io/blob/main/Screenshot%202025-04-01%20194946.png)
+![Octocat](Screenshot%202025-04-01%20194946.png)
 
 
