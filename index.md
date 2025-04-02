@@ -35,7 +35,7 @@ Gained hands-on knowledge on Azure security utilities, log inspection, and SIEM 
 
 
 # Project 2 : Cocktail Finder Web App 
-(<a href="https://www.example.com" target="_blank">Visit Example</a>)
+(<a href="s2jnpn-3000.csb.app/" target="_blank">
 
 
 ### Header 3
