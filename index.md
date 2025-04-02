@@ -37,6 +37,16 @@ Gained hands-on knowledge on Azure security utilities, log inspection, and SIEM 
 # Project 2 : Cocktail Finder Web App 
 <a href="https://s2jnpn-3000.csb.app/" target="_blank">Check out my web app</a>
 
+<a href="https://github.com/sfirest3/Official_Cocktail_Finder" target="_blank">Here is my public Repo Link</a>
+
+
+
+
+
+# Brief project description
+
+Cocktail Finder is an interactive web application that allows users to discover cocktail recipes based on their interests. Built with HTML, CSS, and JavaScript, the project uses an external API to fetch and display real-time cocktail data. The app has a clean and responsive design that offers a seamless experience across any device. The project shows my ability to build interactive web applications, use APIs, and craft user-friendly experiences
+
 ### Header 3
 
 ```js
