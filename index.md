@@ -12,6 +12,7 @@ Log Ingestion & Analysis: Integrated Sentinel with Azure Monitor Agent (AMA) to 
 
 Custom Analytics Rules: Developed Kusto Query Language (KQL) scripts to detect security incidents. 
 
+# Incident tab to security check.
 ![Branching](Screenshot%202025-04-01%20191149.png)
 
 
@@ -22,18 +23,19 @@ Rule Fine-Tuning: Tuning analytics rules to eliminate false positives without su
 Automating Response Operations: Not hindering normal functioning but promptly resolving actual security issues.
 
 
-#picture of my virtual machine desktop
+# Picture of my virtual machine desktop
 ![Octocat](Screenshot%202025-04-01%20192149.png)
 
 
 
 # Custom analytics Rule that checks for successfull log ins.
-Coded Custom analytics rules to detect and alert on potential security threats through the RDP. 
+Coded Custom analytics rules to detect and alert on potential security threats through the RDP.
+
 Automated incident response mechanisms, reducing reaction time for suspected breaches.
+
 Gained hands-on knowledge on Azure security utilities, log inspection, and SIEM functionalities.
 
 ![ocotoat](Screenshot%202025-04-01%20191106.png)
-
 
 
 # Project 2 : Cocktail Finder Web App
