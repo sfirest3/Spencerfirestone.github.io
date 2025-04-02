@@ -2,8 +2,7 @@
 layout: default
 ---
 
-# Project #1 
-# SIEM Deployment & Security Monitoring with Microsoft Sentinel
+# Project #1 SIEM Deployment & Security Monitoring with Microsoft Sentinel
 
 Organizations of the contemporary fast-paced world of cybersecurity need powerful tools to monitor and respond to security notifications efficiently. This is part of my cybersecurity learning process. I installed a cloud SIEM (Security Information and Event Management) tool with Microsoft Sentinel. This project enhanced my learning on log analysis, threat intelligence, and automated response pipelines within cloud environments.
 
