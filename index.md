@@ -35,8 +35,7 @@ Gained hands-on knowledge on Azure security utilities, log inspection, and SIEM 
 
 
 # Project 2 : Cocktail Finder Web App 
-(<a href="s2jnpn-3000.csb.app/" target="_blank">
-
+<a href="https://s2jnpn-3000.csb.app/" target="_blank">Check out my web app</a>
 
 ### Header 3
 
@@ -54,19 +53,6 @@ GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
 ```
-
-
-### There's a horizontal rule below this.
-
-* * *
-
-
-
-### Small image
-
-
-
-### Large image
 
 
 
