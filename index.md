@@ -34,7 +34,9 @@ Gained hands-on knowledge on Azure security utilities, log inspection, and SIEM 
 ![ocotoat](Screenshot%202025-04-01%20191106.png)
 
 
-# Project 2 : Cocktail Finder Web App
+# Project 2 : Cocktail Finder Web App (s2jnpn-3000.csb.app/)
+
+
 
 ### Header 3
 
