@@ -23,10 +23,6 @@ Rule Fine-Tuning: Tuning analytics rules to eliminate false positives without su
 Automating Response Operations: Not hindering normal functioning but promptly resolving actual security issues.
 
 
-# Picture of my virtual machine desktop
-![Octocat](Screenshot%202025-04-01%20192149.png)
-
-
 
 # Custom analytics Rule that checks for successfull log ins.
 Coded Custom analytics rules to detect and alert on potential security threats through the RDP.
