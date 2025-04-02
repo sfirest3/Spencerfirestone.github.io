@@ -2,9 +2,10 @@
 layout: default
 ---
 
-# Project #1 SIEM Deployment & Security Monitoring with Microsoft Sentinel
+# Project 1 : SIEM Deployment & Security Monitoring with Microsoft Sentinel
 
 Organizations of the contemporary fast-paced world of cybersecurity need powerful tools to monitor and respond to security notifications efficiently. This is part of my cybersecurity learning process. I installed a cloud SIEM (Security Information and Event Management) tool with Microsoft Sentinel. This project enhanced my learning on log analysis, threat intelligence, and automated response pipelines within cloud environments.
+![ocotoat](Screenshot%202025-04-01%20191106.png)
 
 # Technical Details
 
@@ -18,43 +19,34 @@ Custom Analytics Rules: Developed Kusto Query Language (KQL) scripts to detect s
 
 Automated Response: Created playbooks using Azure Logic Apps to automate the response, including sending alerts and isolating compromised accounts.
 
-Dashboard Visualization: Built interactive dashboards for real-time threat detection and security insights.
+Dashboard Visualization: Built interactive dashboards for real-time threat detection and security insights. 
 
-# Challenges Faced
+![Branching](Screenshot%202025-04-01%20191149.png)
 
-Log Data Overload: Sorting through critical security events from large data sets meant that KQL queries had to be optimized.
+Some of the challenges I faced were Log Data Overload: Sorting through critical security events from large data sets meant that KQL queries had to be optimized.
 
 Rule Fine-Tuning: Tuning analytics rules to eliminate false positives without suppressing legitimate threats.
 
 Automating Response Operations: Not hindering normal functioning but promptly resolving actual security issues.
 
-# Outcomes
+![Octocat](Screenshot%202025-04-01%20192149.png)
 
-On completion of the project:
 
-Can properly monitor real-time security incidents using Sentinel.
 
-Generated bespoke analytics rules to increase the efficacy of threat detection.
+
+# Custom analytics Rule that checks for successfull log ins.
+Coded Custom analytics rules to detect and alert on potential security threats through the RDP. 
 Automated incident response mechanisms, reducing reaction time for suspected breaches.
 Gained hands-on knowledge on Azure security utilities, log inspection, and SIEM functionalities.
 
-# Lessons Learned
+![Octocat](Screenshot%202025-04-01%20194946.png)
 
-The project reaffirmed the importance of:
-
-Fine-tuning security policies to optimize detection effectiveness and accuracy.
-
-Responsibly automating reaction, minimizing disruptions while maximizing security.
-
-Ongoing monitoring and adjustment, since cyber threats are ever-changing.
-
-# Conclusion
 
 Having utilized Microsoft Sentinel as a SIEM solution was an excellent means of getting first-hand experience with security monitoring and automation. Working on this project not only solidified my technical skills but also broadened my understanding of real-world cybersecurity practices. As the type of cyber threats becomes increasingly complex, the importance of effective, scalable, and automated security monitoring is crucial to any company.
 
 
 
-
+# Project 2 : Cocktail Finder Web App
 
 ### Header 3
 
@@ -82,14 +74,14 @@ end
 
 ### Small image
 
-![ocotoat](Screenshot%202025-04-01%20191106.png)
+
 
 ### Large image
 
-![Branching](Screenshot%202025-04-01%20191149.png)
 
-![Octocat](Screenshot%202025-04-01%20192149.png)
 
-![Octocat](Screenshot%202025-04-01%20194946.png)
+
+
+
 
 
